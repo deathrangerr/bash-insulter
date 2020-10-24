@@ -7,6 +7,7 @@ print_message () {
         "Boooo!"
         "Don't you know anything?"
         "RTFM!"
+        "go cry baby"
         "Haha, n00b!"
         "Wow! That was impressively wrong!"
         "Pathetic"
@@ -63,6 +64,7 @@ print_message () {
         "You're proof that god has a sense of humor."
         "Keep trying, someday you'll do something intelligent!"
         "If shit was music, you'd be an orchestra."
+        "you are shxxt"
         "How many times do I have to flush before you go away?"
     )
     declare -a array2=(
