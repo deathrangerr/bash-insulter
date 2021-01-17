@@ -27,9 +27,13 @@ noob@bender:~ $ sp aux
 
 # Installation
 
-   
+    # Method 1
     git clone https://github.com/deathrangerr/bash-insulter.git
     sudo cp bash-insulter/src/bash.command-not-found /etc/
+    
+    # Method 2 - I don't care, insult me!
+    sudo wget -O /etc/bash.command-not-found https://github.com/deathrangerr/bash-insulter/-/raw/master/src/bash.command-not-found
+
 
    
 Then source the file automatically for new logins by adding the following to `/etc/bash.bashrc` or any of the other locations where you can configure your shell automatically during login:
