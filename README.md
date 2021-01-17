@@ -71,5 +71,4 @@ fi
 Then logout and in again. The end result is that you will now use your messages instead of the default ones.
 
 
-#Hacked from  https://gitlab.com/dwt1/bash-insulter.git 
-#youtube channel https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg
+
